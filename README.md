@@ -22,3 +22,4 @@ Este es un proyecto de Flutter que consume la API de Rick and Morty a través de
    ```sh
    git clone h[ttps://github.com/tu-usuario/rick_and_morty_app.git](https://github.com/albinrk10/albin_prueba_rick_and_morty-.git)
    cd albin_prueba_rick_and_morty
+![image](https://github.com/user-attachments/assets/de4efc2e-09ad-4822-ac19-e522e6f643a0)
